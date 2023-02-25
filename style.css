@@ -1,0 +1,75 @@
+body {
+  background-image: url("hat.png");
+}
+.siteHeader {
+  margin: 60px;
+
+}
+.siteHeader_title {
+  font-size: 55px;
+  text-shadow: 3px 3px 4px black;
+  position: relative;
+
+}
+.siteHeader_label {
+  font-size: 23px;
+  text-shadow: 2px 2px 2px rgb(100, 100, 100);
+}
+
+a:link {
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover {
+  text-decoration: none;
+  display: inline-block;
+  color: rgb(100, 100, 100);
+  opacity: 0.25;
+}
+a:active {
+  text-decoration: none;
+  display: inline-block;
+  color: none;
+}
+a:visited {
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+}
+._text {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#Home { display: none;}
+ol,ul{list-style:none}
+
+.info-text {
+  display: none;
+  font-size: 14px;
+  color: rgb(70, 70, 70);
+  font-weight: bolder;
+}
+
+.project-text {
+  display: none;
+  font-size: 14px;
+  color: rgb(70, 70, 70);
+  font-weight: bolder;
+}
+
+.blog-text {
+  display: none;
+  font-size: 14px;
+  color: rgb(70, 70, 70);
+  font-weight: bolder;
+}
+
+.contact-text {
+  display: none;
+  font-size: 14px;
+  color: rgb(70, 70, 70);
+  font-weight: bolder;
+}

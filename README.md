@@ -6,6 +6,8 @@
 
 **Live Demo:** [https://alaa-younsi.github.io/JS-Documentation/](https://alaa-younsi.github.io/JS-Documentation/)
 
+![Homepage](./screenshot.png)
+
 ---
 
 ## 🎯 Project Purpose
